@@ -1,6 +1,7 @@
+import React, { FC } from 'react'
 import { NavLink } from 'react-router-dom'
 
-export const AppHeader = () => {
+export const AppHeader: FC = () => {
   return (
     <header className='app-header'>
       <nav>
