@@ -6,7 +6,9 @@ export const AppHeader: FC = () => {
     <header className='app-header'>
       <nav>
         <NavLink to={'/'}>HomePage</NavLink>
+        sdfvdsfvsd
       </nav>
+      <hr />
     </header>
   )
 }
